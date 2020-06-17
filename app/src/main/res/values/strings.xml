@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Textron</string>
+    <string name="product_desc">This is a description of the product.\nIt will be very nice and dope so just watch out for it.</string>
 </resources>
